@@ -17,6 +17,15 @@
      <a href="https://www.python.org/g">
       <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
     </a>
+    <a href="https://www.ibm.com/cloud">
+        <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
+    </a>
+    <a href="https://opencv.org/">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+     </a>
+   <a href="https://keras.io/">
+      <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+      </a>
   
   
   <h2><picture>
