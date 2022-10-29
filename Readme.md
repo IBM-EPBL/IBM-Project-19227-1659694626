@@ -18,22 +18,6 @@
       <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
     </a>
   
-    <a href="https://www.ibm.com/cloud">
-        <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
-    </a>
-    <a href="https://opencv.org/">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
-     </a>
-   
-    <a href="https://pandas.pydata.org/">
-      <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-      </a>
-   
-   <a href="https://keras.io/">
-      <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-      </a>
-  </p>
-  
   
   <h2><picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
@@ -102,7 +86,7 @@
   <br>
     
     
-    <div>
+    
    <h2><picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.gif" alt="💚" width="32" height="32">
@@ -113,7 +97,7 @@
   <li>For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.</li>
   <li>These all are to improve the Agriculture, that’s slightly reduces the poverty, climatic condition, soil erosion etc ...</li></ul><br></div><br>
   
-    <div>
+    
    <h2><picture>
     <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f911/512.webp" type="image/webp">
     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f911/512.gif" alt="🤑" width="32" height="32">
