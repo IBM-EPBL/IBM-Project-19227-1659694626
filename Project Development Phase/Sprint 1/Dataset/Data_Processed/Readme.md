@@ -1,4 +1,4 @@
 - [x] Test Dataset
-- [x] Crop NPK Dataset
+- [x] Crop Dataset
 - [x] Fertilizer Dataset
 - [x] Crop Recommendation Dataset
