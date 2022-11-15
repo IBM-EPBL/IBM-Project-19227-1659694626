@@ -1,0 +1,1 @@
+https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/blob/main/Project_Development_Phase/Sprint_1/Dataset/Dataset%20Plant%20Disease/Veg-dataset/Veg-dataset/test_set/Pepper%2C_bell___healthy/b0705327-41b1-453b-97b0-a48fa9e50fb1___JR_HL%205874.JPG
