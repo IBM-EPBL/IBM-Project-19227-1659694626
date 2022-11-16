@@ -1,1 +1,2 @@
-
+- [x] Tested Model
+- [x] Tested Model code (ipynb)
